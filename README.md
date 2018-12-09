@@ -1,0 +1,2 @@
+NAUKA PYTHONA
+dzien 1.
